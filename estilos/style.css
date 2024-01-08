@@ -35,7 +35,7 @@ body {
 header {
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
     text-align: center;
-    padding: 10px;
+    padding: 8px;
 }
 
 header > h1 {
@@ -87,7 +87,7 @@ main {
 
     min-width: 300px;
     max-width: 1000px;
-    padding: 10px;
+    padding: 20px;
     margin: auto;
     margin-bottom: 30px;
     
@@ -126,7 +126,6 @@ div.video > iframe {
 main h1 {
     font: normal 1.8em var(--fonte-android);
     color: var(--cor5);
-    margin: 10px;
     text-align: left;
 }
 
@@ -135,7 +134,7 @@ main h2 {
     font: 1.5em var(--fonte-android);
     color: var(--cor4);
     text-align: left;
-    padding-left: 10px;
+    text-indent: 8px;
     margin: 10px; 
 }
 
